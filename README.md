@@ -12,7 +12,7 @@ I am a full-stack web developer who loves working with backend
 *   🚀  I'm currently working on [Pokemon App](http://riwys.github.io/pokemon-app/)
 *   🧠  I'm learning Backend
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  Fun Fact: I am interested in observing characters and character evolution### Skills 
+*   ⚡  Fun Fact: I am interested in observing characters and character evolution
 
 ### Skills
 
