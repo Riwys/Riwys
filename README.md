@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I am a full-stack web developer who loves working with backend
+I am a full-stack web developer who loves working in backend
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [My Portfolio](http://github.com/Riwys/)
@@ -12,7 +12,7 @@ I am a full-stack web developer who loves working with backend
 *   🚀  I'm currently working on [Pokemon App](http://riwys.github.io/pokemon-app/)
 *   🧠  I'm learning Backend
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  Fun Fact: I am interested in observing characters and character evolution
+*   ⚡  Fun Fact: I am interested in observing characters and the evolution of characters
 
 ### Skills
 
